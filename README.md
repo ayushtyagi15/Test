@@ -1,2 +1,0 @@
-# Test
-Gravity Automation Code 
